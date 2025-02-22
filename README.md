@@ -21,7 +21,7 @@ In this project, we have designed a behavioral VHDL implementation of the audio 
 To use this VHDL project, you will need a VHDL development environment such as Xilinx Vivado. You can clone this repository to your local machine and open the project using your development environment.
 
 ```bash
-git clone https://github.com/Alireza499/VHDL_Audio_Processing_System.git
+git clone https://github.com/Delavari-Alireza/VHDL_Audio_Processing_System.git
 ```
 
 ## Usage
